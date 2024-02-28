@@ -1,2 +1,2 @@
 # generat-rendom-color
-This code will display a button labeled "Generate Random Color". When clicked, it will generate a random color and display it as a filled circle on the webpage.
+This code will display a button labeled "Generate Random Color". When clicked, it will generate a random color and display it as a filled box on the webpage.
